@@ -16,7 +16,7 @@
 
   <p align="start">
     <a href="https://linkedin.com/in/Abhishek">
-    <img src="https://skillicons.dev/icons?i=html,css,js,mongodb,github,react,express,nodejs,vscode,&theme=dark&perline=10" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,mongodb,express,react,nodejs,typescript,github,vscode,&theme=dark&perline=10" />
     </a>
   </p>
 
